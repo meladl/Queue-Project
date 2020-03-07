@@ -1,6 +1,3 @@
-//Mohamed Eladl
-//ID:1203261
-//CSCI 260
 class Queue{
    private int maxSize;
    private long[] queArray;
